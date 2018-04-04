@@ -2,6 +2,10 @@
 ![alt text](https://raw.githubusercontent.com/the-red-team/ReFlashIG/master/reflash.PNG)
 Instagram Password Cracker
 
+### Donate
+  - Bitcoin: 1DGyJxWY4AWCbjMQptc3fSkdnf4e71BCX9
+  - Ethereum: 0x019e2AC0ffEFD6eC62b464487d2434bc57C6F9ae
+
 ### Features
 * Imports and uses proxies(keeps you off of Instagram's blacklist)
 * Imports passwords
