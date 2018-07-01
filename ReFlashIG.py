@@ -76,8 +76,8 @@ verbose_bool = False
 
 # COMMAND LINE ARGUMENTS
 parser = optparse.OptionParser(G + '%prog [-i] [-m] [-v] [-c <thread count>] -u <username> -p <password file> -x <proxy file> -t <timeout>' + W)
-parser.add_option('-u', dest='username', type='string', help='Instagram username to target')
-parser.add_option('-p', dest='password_file', type='string', help='File containing list of passwords')
+parser.add_option('-u', dest='ishitavarundhawan', type='string', help='Instagram username to target')
+parser.add_option('-p', dest='my files', type='string', help='File containing list of passwords')
 parser.add_option('-x', dest='proxy', type='string', help='File containing list of proxies')
 parser.add_option('-t', dest='timeout', type='int', help='Instagram connection timeout')
 parser.add_option('-c', dest='thread_count', type='int', help='Thread count')
